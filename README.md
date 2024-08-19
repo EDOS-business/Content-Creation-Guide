@@ -71,3 +71,8 @@ I found the following videos to be useful to get me started quickly:
 - How to Use OBS Studio - A Beginner's Guide (~9:00 minutes) https://www.youtube.com/watch?v=DTk99mHDX_I
 - Quick Start Guide for brand-new video editors in DaVinci Resolve (or something like that, ~29:00 minutes): https://www.youtube.com/watch?v=P73m0p8JbV0
 
+## The Video
+
+The YouTube link related to this content is below
+
+https://youtu.be/Faf45Mgc4p0
