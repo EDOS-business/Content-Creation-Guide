@@ -6,6 +6,10 @@ I hope it is obvious to everyone that video-first content has become the rule of
 
 The captured audio quality must be at least good, video quality is secondary. If the audio is bad; riddled sibilance and digital artifacts, too quiet, too loud, or just annoying to listen to, people will bail out, and it may do more harm than good. If the audio quality is excellent, even minimally acceptable video will seem better than it is. 
 
+#### Cadence is important
+
+A piece of content per week is not enough, everyone participating should shoot for at least 3 pieces of content per week. Two short pieces and one longer, more in-depth post should work. Jab, jab, hook. Repeat, until we learn to throw more complex combinations as our metaphorical boxing skills improve.
+
 Excitement sells, keeping your energy up while speaking may be difficult, especially at first, I may try standing to keep my internal fire burning while delivering the words, standing energe is strong energy.
 
 Stay focused, write a script if necessary, you will more than likely find that it is, until your performance skills begin to flow. Make no mistake, these are performances.
