@@ -10,15 +10,25 @@ The captured audio quality must be at least good, video quality is secondary. If
 
 A piece of content per week is not enough, everyone participating should shoot for at least 3 pieces of content per week. Two short pieces and one longer, more in-depth post should work. Jab, jab, hook. Repeat, until we learn to throw more complex combinations as our metaphorical boxing skills improve.
 
-Excitement sells, keeping your energy up while speaking may be difficult, especially at first, I may try standing to keep my internal fire burning while delivering the words, standing energe is strong energy.
+#### Excitement sells 
 
-Stay focused, write a script if necessary, you will more than likely find that it is, until your performance skills begin to flow. Make no mistake, these are performances.
+keeping your energy up while speaking may be difficult, especially at first, I may try standing to keep my internal fire burning while delivering the words, standing energe is strong energy.
 
-Limit your discussions to one of perhaps two different areas of personal expertise, within a given piece of content. Present your ideas clearly and directly, aim for a natural, conversational tone, except where precise technical explanations are necessary. 
+#### Stay focused
+
+write a script if necessary, you will more than likely find that it is, until your performance skills begin to flow. Make no mistake, these are performances.
+
+#### Limit your discussions
+
+to one of perhaps two different areas of personal expertise, within a given piece of content. Present your ideas clearly and directly, aim for a natural, conversational tone, except where precise technical explanations are necessary. 
+
+#### On Swimming
 
 If you're like me, you'll be uncomfortable at first. Just keep swimming and you'll get better at...you know, swimming.
 
-Start by doing THREE TAKES of the content you intend to publish. By the third one, you should be comfortable, and unless one of the first two were clearly absolute champion runs, just publish the third take by default. This is a good practice until you find the capturing cadence that works best for you, as your workflow matures.
+#### Start by doing THREE TAKES
+
+Unless one of the first two were clearly absolute champion runs, just publish the third take by default. This is a good practice until you find the capturing cadence that works best for you, as your workflow matures.
 
 ## Stage One Content Creation: The Camcorder
 
